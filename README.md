@@ -2,8 +2,8 @@
 Android reaper Web Remote application
 
 # Links :
-Latest APK - Beta 0.1 :  https://github.com/D4p0up/reaper_remote/releases/tag/0.1
-Simplified Remote Template - Beta 0.1 : https://github.com/D4p0up/reaper_remote/blob/main/fancier2.html
+* Latest APK - Beta 0.1 :  https://github.com/D4p0up/reaper_remote/releases/tag/0.1
+* Simplified Remote Template - Beta 0.1 : https://github.com/D4p0up/reaper_remote/blob/main/fancier2.html
 
 # Overview :
 ![alt text](https://raw.githubusercontent.com/D4p0up/reaper_remote/main/screen.jpg)
